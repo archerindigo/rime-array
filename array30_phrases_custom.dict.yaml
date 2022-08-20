@@ -1,0 +1,33 @@
+# array30_phrases.dict.yaml
+# vim: set tabstop=8 noet:
+# encoding: utf-8
+#
+# 行列30增潤詞庫
+#
+# 收錄：
+#   - 自家詞彙
+#
+# 製作人員：
+#   - Terry Tsang <archerindigo@gmail.com>
+
+---
+name: "array30_phrases_custom"
+version: "1.0"
+sort: original
+use_preset_vocabulary: false
+...
+
+係咩	kc;f'
+係咪	kc;,'
+做咩	k.;f'
+自家	ljna'
+豉油	qbcf'
+有冇	zuzj'
+唔係	;;kc'
+唔知	;;o;'
+軟件	qkkf'
+硬件	g.kf'
+
+
+# problem
+唔好    ;;wf'

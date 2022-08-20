@@ -12,6 +12,7 @@ use_preset_vocabulary: false  # 使用八股文詞庫時需設為true，否則�
 import_tables:
   - array30_main
   - array30_phrases    # 使用本方案附帶之行列詞庫，如使用八股文詞敬請將此行註解／移除
+  - array30_phrases_custom
   - array30_emoji
 
 # 解除以下註解以使用八股文詞庫
